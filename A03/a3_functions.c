@@ -1,6 +1,6 @@
 /********* definitions.c ********
-    Student Name 	=
-    Student Number	=
+    Student Name 	= Jacob Aydin
+    Student Number	= 101264856
 */
 
 #include <stdlib.h>
