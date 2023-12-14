@@ -1,6 +1,6 @@
 /********* functions.h ********
-   Student Name 	=
-   Student Number	=
+   Student Name 	= Jacob Aydin
+   Student Number	= 101264856
 */
 #ifndef __A2_FUNCTIONS_H__
 #define __A2_FUNCTIONS_H__
